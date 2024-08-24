@@ -1,0 +1,81 @@
+
+
+
+
+
+
+
+
+
+.heading{
+    
+   border-radius: 20px;
+    border: 3px solid rgba(255, 255, 255, .2);
+ display: block;
+    background:transparent;
+    
+    box-shadow: 0 0 10px  rgba(0, 0,0, .2);
+    backdrop-filter: blur(40px);
+    text-align: center;
+     color:green
+}
+.add{
+    text-align: center;
+     text-transform: uppercase;
+     color: rgb(0, 255, 0);border-radius: 20px;
+     border: 3px solid rgba(255, 255, 255, .2);
+  display: block;
+     background:transparent;
+     border-top: 10px;
+     padding-top: 10px;
+     
+     box-shadow: 0 0 10px  rgba(0, 0,0, .2);
+     backdrop-filter: blur(40px);
+     margin-top: 20px;
+}
+.id{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 40px;
+    border-radius: 20px;
+         border: 3px solid rgba(255, 255, 255, .2);
+        padding: 10px;
+         background:transparent;
+         display:inline-flex;
+         margin-left: 31%;
+         box-shadow: 0 0 10px  rgba(0, 0,0, .2);
+         backdrop-filter: blur(40px);
+         color: aquamarine;
+         margin-top: 20px;
+
+        
+    }
+    .image{
+      padding-left: 150px;
+      padding-top:30px ;
+     
+
+    }
+    .name{
+        margin-left: 18% ;
+        padding-top: 10px;
+        text-transform: uppercase;
+        color: rgb(13, 13, 3);
+        border-radius: 20px;
+        border: 3px solid rgba(255, 255, 255, .2);
+     display: inline-block;
+        background:transparent;
+        
+        backdrop-filter: blur(40px);
+    }
+    .reg{
+        font-size:20px ;
+        padding left: 40%;
+    
+    }
+.blood{
+    margin:10%;
+    padding-left:10% ;
+    padding-top: 50px;
+   margin-top: 20px;
+}
